@@ -1,7 +1,14 @@
 {
   "name": "perspective",
+  "version": "1.0.1",
   "module": "index.ts",
   "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "git+https://github.com/fronrich/perspective.git"
+  },
+  "description": "An Elysia plugin that allows Elysia servers to host multiple static, client-side applications.",
   "devDependencies": {
     "@types/bun": "latest"
   },
