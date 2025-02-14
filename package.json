@@ -1,0 +1,13 @@
+{
+  "name": "perspective",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "elysia": "^1.2.12",
+    "get-all-files": "^5.0.0",
+    "typescript": "^5.0.0"
+  }
+}
