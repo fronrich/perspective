@@ -1,3 +1,3 @@
-import usePerspectives from "./perspective";
+import usePerspectives, { type PerspectiveConfig } from "./perspective";
 
-export default { usePerspectives };
+export { usePerspectives, type PerspectiveConfig };
