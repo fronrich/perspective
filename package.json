@@ -1,7 +1,7 @@
 {
   "name": "@fronrich/perspective",
-  "version": "1.0.3",
-  "module": "index.ts",
+  "version": "1.0.4",
+  "module": "dist/index.js",
   "type": "module",
   "license": "MIT",
   "repository": {
@@ -16,5 +16,8 @@
     "elysia": "^1.2.12",
     "get-all-files": "^5.0.0",
     "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "build": "bunx tsc"
   }
 }
