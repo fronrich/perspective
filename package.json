@@ -1,6 +1,6 @@
 {
   "name": "@fronrich/perspective",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "module": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -19,5 +19,17 @@
   },
   "scripts": {
     "build": "bunx tsc"
-  }
+  },
+  "keywords": [
+    "perspective",
+    "Elysia",
+    "static",
+    "frontend",
+    "server",
+    "hosting",
+    "agnostic",
+    "bun",
+    "simple",
+    "monorepo"
+  ]
 }
