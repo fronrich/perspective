@@ -1,5 +1,17 @@
 # Perspective
 
+<div style="width: 100%; display: flex; gap: 2rem; flex-direction: column; align-items: center; justify-content: center; margin: 2rem 0">
+  <img src="public/perspective.svg" alt="drawing" width="200"/>
+  <div style="display: flex; max-width: 32rem; flex-wrap: wrap; justify-content: center; align-items: center">
+  
+  ![shield](https://img.shields.io/badge/license-MIT-blue)
+  ![shield](https://img.shields.io/badge/npm_-v1.0.5-blue)
+  ![shield](https://img.shields.io/badge/PRs-welcome-green)
+  ![shield](https://img.shields.io/badge/(Compiler)_Typescript-passing-green)
+
+  </div>
+</div>
+
 An Elysia plugin that allows Elysia servers to host multiple static, client-side web applications.
 
 ## Table of Contents
