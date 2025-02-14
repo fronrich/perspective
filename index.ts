@@ -1,3 +1,3 @@
-import perspective from "./perspective";
+import usePerspectives from "./perspective";
 
-export default perspective;
+export default { usePerspectives };
